@@ -3,7 +3,7 @@ Download XCode from Apps.app. Recommended that for the current XCode on Apps.app
 
 When creating an app for the watch, you are creating at app for both the watch **AND** the iPhone to work with the watch app.
 
-[![Create New Watch App](../media/NewWatchProject.png)](../media/NewWatchProject.mov)
+[![Create New Watch App](../media/NewWatchProject.png)](https://youtu.be/rS0dlkC-RCY)
 
 Look to menu in simulator for hardware things to do to the watch.
 
